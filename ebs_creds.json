@@ -1,4 +1,4 @@
 {
-	"user": "eliran_130@walla.com",
-	"password": "eliran1598462370"
+	"user": "%USERNAME%",
+	"password": "%PASSWORD%"
 }
